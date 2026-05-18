@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This repo is archived. Please see https://github.com/8thwall/8thwall for the actively maintained open source repository, including [xrextras](https://github.com/8thwall/8thwall/blob/main/packages/xrextras/README.md).
+
+
 # 8th Wall Web
 
 8th Wall Web: WebAR for mobile devices!
